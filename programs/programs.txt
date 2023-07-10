@@ -1,0 +1,57 @@
+1. How do you check whether a string contains a substring
+2. How do you validate an email in javascript
+3. How do you validate an email in javascript
+4. How do you get the current url with javascript
+5. What are the various url properties of location object
+6. How do get query string values in javascript
+7. How do you check if a key exists in an object
+8. How do you test for an empty object
+9. How do you make first letter of the string in an uppercase
+10. How do you display the current date in javascript
+11. How do you compare two date objects
+12. How do you check if a string starts with another string
+13. How do you trim a string in javascript
+14. How do you add a key value pair in javascript
+15. Is the '!--' notation represents a special operator
+16. What is the way to find the number of parameters expected by a function
+17. What is a polyfill
+18. How do you generate random integers
+19. Can you write a random integers function to print integers with in a range
+20. How do you search a string for a pattern
+21. What would be the result of 1+2+'3'
+22. How do you convert date to another timezone in javascript
+23. promise code
+24. asyn/await code
+25. promise using async and await
+26. How to convert string to title case with javascript
+27. How do you determine two values same or not using object
+28. How do you copy properties from one object to other
+29. How do get the timezone offset from date
+30. How do you convert character to ASCII code
+31. How do you combine two or more arrays
+32. How do you return all matching strings against a regular expression
+33. How do you trim a string at the beginning or ending
+34. How to remove all line breaks from a string
+35. What happens with negating an array
+36. What happens if we add two arrays
+37. How do you map the array values without using map method
+38. How do you rounding numbers to certain decimals
+39. What is the easiest way to convert an array to an object
+40. What are the placeholders from console object
+41. Is it possible to add CSS to console messages
+42. What is the purpose of dir method of console object
+43. Is it possible to debug HTML elements in console
+44. How do you display data in a tabular format using console object
+45. How do you verify that an argument is a Number or not
+46. Explain what a callback functionis and provide a simple example
+47. Write a recursive function to calcilate multiplication of numbers? Example:4x3x2x1
+48. Write a function to find a non repative characters in a string?
+49. Write a program reverse each word in the given sentence?
+50. Write a project to check if an object is an array or not?
+51. Write a program check if a number is an integer or not?
+52. Write a function to delete duplicate number from an array?
+52. Write a function to reverse a given string?
+54. Find the sum of all elemnets\numbers of a given array?
+55. Find a word in a sentence
+56. How to convert an object into array in javascript?
+57. How to convert an array to object in javascript?

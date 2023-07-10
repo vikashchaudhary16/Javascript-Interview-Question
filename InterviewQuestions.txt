@@ -1,0 +1,1 @@
+javascript is a dynamic language means data types of variables can change during the runtime.
